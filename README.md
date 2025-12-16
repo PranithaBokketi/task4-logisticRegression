@@ -50,7 +50,7 @@ Concepts Covered
 
 How to Run
 # Clone this repository
-git clone https://github.com/yourusername/breast-cancer-logistic.git
+git clone https://github.com/yourusername/breast-cancer-logistic.git](https://github.com/PranithaBokketi/Breast-Cancer-Prediction.git
 cd breast-cancer-logistic
 
 # Install required packages
